@@ -10,8 +10,9 @@ namespace SomeTest
     {
         static void FirstTOGit()
         {
-            Console.WriteLine("VSToGitComplete!!");
-            Console.WriteLine("GitToVSComplete!!");
+            Console.WriteLine("VSToGitHubComplete!!");
+            Console.WriteLine("GitHubToVSComplete!!");
+            Console.WriteLine("AgainVSToGitHub");
         }
         static void Print<T>(T[] array)
         {
