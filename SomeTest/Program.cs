@@ -10,7 +10,8 @@ namespace SomeTest
     {
         static void FirstTOGit()
         {
-            Console.WriteLine("GitComplete!!");
+            Console.WriteLine("VSToGitComplete!!");
+            Console.WriteLine("GitToVSComplete!!");
         }
         static void Print<T>(T[] array)
         {
