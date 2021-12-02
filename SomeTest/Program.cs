@@ -13,6 +13,8 @@ namespace SomeTest
             Console.WriteLine("VSToGitHubComplete!!");
             Console.WriteLine("GitHubToVSComplete!!");
             Console.WriteLine("AgainVSToGitHub");
+            Console.WriteLine("AgainGitHubToVS");
+            Console.WriteLine("全部提交前的修改");
         }
         static void Print<T>(T[] array)
         {
