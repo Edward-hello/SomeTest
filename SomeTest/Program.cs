@@ -8,6 +8,10 @@ namespace SomeTest
 {
     class Program
     {
+        static void FirstTOGit()
+        {
+            Console.WriteLine("GitComplete!!");
+        }
         static void Print<T>(T[] array)
         {
             foreach (var item in array)
@@ -168,6 +172,8 @@ namespace SomeTest
             Swap<char>(charList1, charList2);
             Print<char>(charList1);
             Print<char>(charList2);
+
+            FirstTOGit();
 
             Console.ReadKey();
         }
