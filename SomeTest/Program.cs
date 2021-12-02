@@ -15,7 +15,7 @@ namespace SomeTest
             Console.WriteLine("AgainVSToGitHub");
             Console.WriteLine("AgainGitHubToVS");
             Console.WriteLine("全部提交前的修改");
-            Console.WriteLine("同步");
+            Console.WriteLine("同步会造成冲突");
         }
         static void Print<T>(T[] array)
         {
